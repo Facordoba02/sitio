@@ -12,9 +12,9 @@
 ### Combinaciones de colores posibles.
 
   1. Modernos:
-    - Primario: #2c3e50 (Azul Marino)
-    - Secundario: #3498db (Azul Claro)
-    - Acento: #e67e22 (Naranja) 
+  - Primario: #2c3e50 (Azul Marino)
+  - Secundario: #3498db (Azul Claro)
+  - Acento: #e67e22 (Naranja) 
     
   2. Minimalista:
     - Primario: #ffffff (Blanco)

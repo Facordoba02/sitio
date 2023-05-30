@@ -23,6 +23,19 @@
   19. CufaTech Pros
   20. SystemCraft Consult
 
+### Eslogan
+
+  1. "Tu asesoría tecnológica de confianza"
+  2. "La solución experta en computadoras a tu alcance"
+  3. "Construyendo el futuro de la tecnología juntos" 
+  4. "Presupuestos personalizados. Resultados excepcionales."
+  5. "Potencia tu mundo digital con CufaTech"
+  6. "Tu aliado en tecnología e informática"
+  7. "Experiencia y conocimiento para optimizar tu rendimiento"
+  8. "Armamos sueños tecnológicos a medida"
+  9. "Profesionales en asesoramiento y mantenimiento informático"
+  10. "Simplificando la tecnología, brindando soluciones"
+
 ### Combinaciones de tipografías posibles.
 
   - Montserrat -> Open Sans

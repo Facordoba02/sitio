@@ -1,5 +1,28 @@
 # sitio
 
+### Nombres posibles
+
+  1. CufaTech Solutions
+  2. ByteAdvisor
+  3. TechCraft Consultancy
+  4. CufaBuild
+  5. Computopia
+  6. TechnoCufa
+  7. CufaTech Wizards
+  8. CyberCufa
+  9. PC Mastermind
+  10. TechSense Consult
+  11. CufaCompute
+  12. CustomIT Solutions
+  13. TechnoBudget
+  14. CufaTech Gurus
+  15. ByteGenius
+  16. CufaTech Experts
+  17. Computech Squad
+  18. TechWhiz Consultancy
+  19. CufaTech Pros
+  20. SystemCraft Consult
+
 ### Combinaciones de tipografías posibles.
 
   - Montserrat -> Open Sans
